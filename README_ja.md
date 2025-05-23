@@ -33,12 +33,12 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 
 |   インデックス | 名前                                              | 難易度   | 練習                                                                                                              |
 |----------------|---------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------|
-|             01 | 📖 SQLite 制約管理 (SQLite Constraint Management) | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/sqlite-sqlite-constraint-management-552545'>ラボを開始</a> |
-|             02 | 📖 SQLite インデックス最適化                      | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/sqlite-sqlite-index-optimization-552552'>ラボを開始</a>    |
+|             01 | 📖 SQLite 制約管理 (SQLite Constraint Management) | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/sqlite-sqlite-constraint-management-552545'>ラボを開始</a> |
+|             02 | 📖 SQLite インデックス最適化                      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/sqlite-sqlite-index-optimization-552552'>ラボを開始</a>    |
 
 ## その他
 
-- 🔗 [SQLite Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [SQLite Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [SQLite Free Tutorials](https://github.com/labex-labs/sqlite-free-tutorials)
+- 🔗 [SQLite プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [SQLite プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [SQLite 無料チュートリアル](https://github.com/labex-labs/sqlite-free-tutorials)
 
