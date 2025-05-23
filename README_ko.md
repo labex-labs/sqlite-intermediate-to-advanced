@@ -31,10 +31,25 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 
 ## 연습
 
-|   인덱스 | 이름                     | 난이도   | 연습                                                                                                             |
-|----------|--------------------------|----------|------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 SQLite 제약 조건 관리 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/sqlite-sqlite-constraint-management-552545'>실습 시작</a> |
-|       02 | 📖 SQLite 인덱스 최적화  | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/sqlite-sqlite-index-optimization-552552'>실습 시작</a>    |
+|   인덱스 | 이름                           | 난이도   | 연습                                                                                                             |
+|----------|--------------------------------|----------|------------------------------------------------------------------------------------------------------------------|
+|       01 | 📖 SQLite 제약 조건 관리       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/sqlite-sqlite-constraint-management-552545'>실습 시작</a> |
+|       02 | 📖 SQLite 인덱스 최적화        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/sqlite-sqlite-index-optimization-552552'>실습 시작</a>    |
+|       03 | 📖 SQLite Table Joining        | 초급     | 곧 출시                                                                                                          |
+|       04 | 📖 SQLite Data Grouping        | 초급     | 곧 출시                                                                                                          |
+|       05 | 📖 SQLite Subquery Techniques  | 초급     | 곧 출시                                                                                                          |
+|       06 | 📖 SQLite Transaction Handling | 초급     | 곧 출시                                                                                                          |
+|       07 | 📖 SQLite Trigger Automation   | 초급     | 곧 출시                                                                                                          |
+|       08 | 📖 SQLite View Creation        | 초급     | 곧 출시                                                                                                          |
+|       09 | 📖 SQLite Full-Text Indexing   | 초급     | 곧 출시                                                                                                          |
+|       10 | 📖 SQLite JSON Processing      | 초급     | 곧 출시                                                                                                          |
+|       11 | 📖 SQLite Database Backup      | 초급     | 곧 출시                                                                                                          |
+|       12 | 📖 SQLite PRAGMA Tuning        | 초급     | 곧 출시                                                                                                          |
+|       13 | 📖 SQLite Temporary Storage    | 초급     | 곧 출시                                                                                                          |
+|       14 | 📖 SQLite CTE Queries          | 초급     | 곧 출시                                                                                                          |
+|       15 | 📖 SQLite Window Analytics     | 초급     | 곧 출시                                                                                                          |
+|       16 | 📖 SQLite Error Handling       | 초급     | 곧 출시                                                                                                          |
+|       17 | 📖 SQLite Database Maintenance | 초급     | 곧 출시                                                                                                          |
 
 ## 더 보기
 
