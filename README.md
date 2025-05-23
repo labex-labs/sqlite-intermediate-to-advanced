@@ -4,9 +4,9 @@
 
 🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![SQLite Intermediate to Advanced](https://cover-creator.labex.io/sqlite-intermediate-to-advanced.png)](https://labex.io/en/courses/sqlite-intermediate-to-advanced)
+[![SQLite Intermediate to Advanced](https://cover-creator.labex.io/sqlite-intermediate-to-advanced.png)](https://labex.io/courses/sqlite-intermediate-to-advanced)
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/en/courses/sqlite-intermediate-to-advanced)
+[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/sqlite-intermediate-to-advanced)
 
 In this course, delve into advanced SQLite techniques. Master constraints, indexing, joins, subqueries, transactions, triggers, views, full-text search, JSON, backups, PRAGMA tuning, CTEs, window functions, and more!
 
@@ -31,10 +31,10 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                            | Difficulty   | Practice                                                                                                         |
-|---------|---------------------------------|--------------|------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 SQLite Constraint Management | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/sqlite-sqlite-constraint-management-552545'>Start Lab</a> |
-|      02 | 📖 SQLite Index Optimization    | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/sqlite-sqlite-index-optimization-552552'>Start Lab</a>    |
+|   Index | Name                            | Difficulty   | Practice                                                                                                      |
+|---------|---------------------------------|--------------|---------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 SQLite Constraint Management | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-sqlite-constraint-management-552545'>Start Lab</a> |
+|      02 | 📖 SQLite Index Optimization    | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-sqlite-index-optimization-552552'>Start Lab</a>    |
 
 ## More
 
