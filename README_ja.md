@@ -31,10 +31,25 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 
 ## 演習
 
-|   インデックス | 名前                                              | 難易度   | 練習                                                                                                              |
-|----------------|---------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------|
-|             01 | 📖 SQLite 制約管理 (SQLite Constraint Management) | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/sqlite-sqlite-constraint-management-552545'>ラボを開始</a> |
-|             02 | 📖 SQLite インデックス最適化                      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/sqlite-sqlite-index-optimization-552552'>ラボを開始</a>    |
+|   インデックス | 名前                                               | 難易度   | 練習                                                                                                              |
+|----------------|----------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------|
+|             01 | 📖 SQLite 制約管理 (SQLite Constraint Management)  | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/sqlite-sqlite-constraint-management-552545'>ラボを開始</a> |
+|             02 | 📖 SQLite インデックス最適化                       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/sqlite-sqlite-index-optimization-552552'>ラボを開始</a>    |
+|             03 | 📖 SQLite テーブル結合                             | 初級     | 近日公開                                                                                                          |
+|             04 | 📖 SQLite データグループ化                         | 初級     | 近日公開                                                                                                          |
+|             05 | 📖 SQLite サブクエリのテクニック                   | 初級     | 近日公開                                                                                                          |
+|             06 | 📖 SQLite トランザクション処理                     | 初級     | 近日公開                                                                                                          |
+|             07 | 📖 SQLite トリガーの自動化                         | 初級     | 近日公開                                                                                                          |
+|             08 | 📖 SQLite ビューの作成 (SQLite View Creation)      | 初級     | 近日公開                                                                                                          |
+|             09 | 📖 SQLite 全文インデックス                         | 初級     | 近日公開                                                                                                          |
+|             10 | 📖 SQLite JSON 処理                                | 初級     | 近日公開                                                                                                          |
+|             11 | 📖 SQLite データベースのバックアップ               | 初級     | 近日公開                                                                                                          |
+|             12 | 📖 SQLite PRAGMA チューニング                      | 初級     | 近日公開                                                                                                          |
+|             13 | 📖 SQLite の一時ストレージ                         | 初級     | 近日公開                                                                                                          |
+|             14 | 📖 SQLite CTE クエリ                               | 初級     | 近日公開                                                                                                          |
+|             15 | 📖 SQLite ウィンドウ分析 (SQLite Window Analytics) | 初級     | 近日公開                                                                                                          |
+|             16 | 📖 SQLite のエラー処理                             | 初級     | 近日公開                                                                                                          |
+|             17 | 📖 SQLite データベースのメンテナンス               | 初級     | 近日公開                                                                                                          |
 
 ## その他
 
