@@ -35,6 +35,21 @@ Erfahren Sie mehr über [LabEx VM](https://support.labex.io/using-labex/virtual-
 |---------|----------------------------------------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------|
 |      01 | 📖 SQLite Constraint Management (Constraint-Verwaltun... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sqlite-sqlite-constraint-management-552545'>Labor Starten</a> |
 |      02 | 📖 SQLite Indexoptimierung                               | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sqlite-sqlite-index-optimization-552552'>Labor Starten</a>    |
+|      03 | 📖 SQLite Tabellenverknüpfung (Table Joining)            | Anfänger        | Demnächst Verfügbar                                                                                                  |
+|      04 | 📖 SQLite Datengruppierung                               | Anfänger        | Demnächst Verfügbar                                                                                                  |
+|      05 | 📖 SQLite Subquery-Techniken (Unterabfragen)             | Anfänger        | Demnächst Verfügbar                                                                                                  |
+|      06 | 📖 SQLite Transaktionsverarbeitung                       | Anfänger        | Demnächst Verfügbar                                                                                                  |
+|      07 | 📖 SQLite Trigger Automatisierung                        | Anfänger        | Demnächst Verfügbar                                                                                                  |
+|      08 | 📖 SQLite View Erstellung                                | Anfänger        | Demnächst Verfügbar                                                                                                  |
+|      09 | 📖 SQLite Volltextindizierung                            | Anfänger        | Demnächst Verfügbar                                                                                                  |
+|      10 | 📖 SQLite JSON Verarbeitung                              | Anfänger        | Demnächst Verfügbar                                                                                                  |
+|      11 | 📖 SQLite Datenbank Backup                               | Anfänger        | Demnächst Verfügbar                                                                                                  |
+|      12 | 📖 SQLite PRAGMA Optimierung                             | Anfänger        | Demnächst Verfügbar                                                                                                  |
+|      13 | 📖 SQLite Temporärer Speicher                            | Anfänger        | Demnächst Verfügbar                                                                                                  |
+|      14 | 📖 SQLite CTE Abfragen                                   | Anfänger        | Demnächst Verfügbar                                                                                                  |
+|      15 | 📖 SQLite Fensterfunktionen-Analysen (Window Analytic... | Anfänger        | Demnächst Verfügbar                                                                                                  |
+|      16 | 📖 SQLite Fehlerbehandlung                               | Anfänger        | Demnächst Verfügbar                                                                                                  |
+|      17 | 📖 SQLite Datenbankwartung                               | Anfänger        | Demnächst Verfügbar                                                                                                  |
 
 ## Mehr
 
