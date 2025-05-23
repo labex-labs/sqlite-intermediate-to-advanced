@@ -31,10 +31,25 @@ LabEx 是一个专注于编程和技术的交互式动手学习平台。它结�
 
 ## 练习
 
-|   序号 | 名称               | 难度   | 练习                                                                                                            |
-|--------|--------------------|--------|-----------------------------------------------------------------------------------------------------------------|
-|     01 | 📖 SQLite 约束管理 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-sqlite-constraint-management-552545'>开始实验</a> |
-|     02 | 📖 SQLite 索引优化 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-sqlite-index-optimization-552552'>开始实验</a>    |
+|   序号 | 名称                   | 难度   | 练习                                                                                                            |
+|--------|------------------------|--------|-----------------------------------------------------------------------------------------------------------------|
+|     01 | 📖 SQLite 约束管理     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-sqlite-constraint-management-552545'>开始实验</a> |
+|     02 | 📖 SQLite 索引优化     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-sqlite-index-optimization-552552'>开始实验</a>    |
+|     03 | 📖 SQLite 表连接       | 初级   | 即将推出                                                                                                        |
+|     04 | 📖 SQLite 数据分组     | 初级   | 即将推出                                                                                                        |
+|     05 | 📖 SQLite 子查询技术   | 初级   | 即将推出                                                                                                        |
+|     06 | 📖 SQLite 事务处理     | 初级   | 即将推出                                                                                                        |
+|     07 | 📖 SQLite 触发器自动化 | 初级   | 即将推出                                                                                                        |
+|     08 | 📖 SQLite 视图创建     | 初级   | 即将推出                                                                                                        |
+|     09 | 📖 SQLite 全文索引     | 初级   | 即将推出                                                                                                        |
+|     10 | 📖 SQLite JSON 处理    | 初级   | 即将推出                                                                                                        |
+|     11 | 📖 SQLite 数据库备份   | 初级   | 即将推出                                                                                                        |
+|     12 | 📖 SQLite PRAGMA 调优  | 初级   | 即将推出                                                                                                        |
+|     13 | 📖 SQLite 临时存储     | 初级   | 即将推出                                                                                                        |
+|     14 | 📖 SQLite CTE 查询     | 初级   | 即将推出                                                                                                        |
+|     15 | 📖 SQLite 窗口分析     | 初级   | 即将推出                                                                                                        |
+|     16 | 📖 SQLite 错误处理     | 初级   | 即将推出                                                                                                        |
+|     17 | 📖 SQLite 数据库维护   | 初级   | 即将推出                                                                                                        |
 
 ## 更多
 
