@@ -33,12 +33,12 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 
 |   인덱스 | 이름                     | 난이도   | 연습                                                                                                             |
 |----------|--------------------------|----------|------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 SQLite 제약 조건 관리 | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/sqlite-sqlite-constraint-management-552545'>실습 시작</a> |
-|       02 | 📖 SQLite 인덱스 최적화  | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/sqlite-sqlite-index-optimization-552552'>실습 시작</a>    |
+|       01 | 📖 SQLite 제약 조건 관리 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/sqlite-sqlite-constraint-management-552545'>실습 시작</a> |
+|       02 | 📖 SQLite 인덱스 최적화  | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/sqlite-sqlite-index-optimization-552552'>실습 시작</a>    |
 
 ## 더 보기
 
-- 🔗 [SQLite Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [SQLite Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [SQLite Free Tutorials](https://github.com/labex-labs/sqlite-free-tutorials)
+- 🔗 [SQLite 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [SQLite 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [SQLite 무료 튜토리얼](https://github.com/labex-labs/sqlite-free-tutorials)
 
