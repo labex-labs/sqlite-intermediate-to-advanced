@@ -31,10 +31,25 @@ Aprende más sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machi
 
 ## Ejercicios
 
-|   Índice | Nombre                                | Dificultad   | Práctica                                                                                                                   |
-|----------|---------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Gestión de Restricciones en SQLite | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-sqlite-constraint-management-552545'>Iniciar Laboratorio</a> |
-|       02 | 📖 Optimización de Índices en SQLite  | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-sqlite-index-optimization-552552'>Iniciar Laboratorio</a>    |
+|   Índice | Nombre                                                   | Dificultad   | Práctica                                                                                                                   |
+|----------|----------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------|
+|       01 | 📖 Gestión de Restricciones en SQLite                    | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-sqlite-constraint-management-552545'>Iniciar Laboratorio</a> |
+|       02 | 📖 Optimización de Índices en SQLite                     | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-sqlite-index-optimization-552552'>Iniciar Laboratorio</a>    |
+|       03 | 📖 Unión de Tablas en SQLite                             | Principiante | Próximamente                                                                                                               |
+|       04 | 📖 Agrupación de Datos en SQLite                         | Principiante | Próximamente                                                                                                               |
+|       05 | 📖 Técnicas de Subconsultas en SQLite                    | Principiante | Próximamente                                                                                                               |
+|       06 | 📖 Manejo de Transacciones en SQLite                     | Principiante | Próximamente                                                                                                               |
+|       07 | 📖 Automatización de Triggers (Disparadores) en SQLit... | Principiante | Próximamente                                                                                                               |
+|       08 | 📖 Creación de Vistas en SQLite                          | Principiante | Próximamente                                                                                                               |
+|       09 | 📖 Indexación de Texto Completo en SQLite                | Principiante | Próximamente                                                                                                               |
+|       10 | 📖 Procesamiento de JSON en SQLite                       | Principiante | Próximamente                                                                                                               |
+|       11 | 📖 Copia de Seguridad de la Base de Datos SQLite         | Principiante | Próximamente                                                                                                               |
+|       12 | 📖 Optimización de PRAGMA en SQLite                      | Principiante | Próximamente                                                                                                               |
+|       13 | 📖 Almacenamiento Temporal en SQLite                     | Principiante | Próximamente                                                                                                               |
+|       14 | 📖 Consultas CTE en SQLite                               | Principiante | Próximamente                                                                                                               |
+|       15 | 📖 Análisis de Ventanas en SQLite                        | Principiante | Próximamente                                                                                                               |
+|       16 | 📖 Manejo de Errores en SQLite                           | Principiante | Próximamente                                                                                                               |
+|       17 | 📖 Mantenimiento de la base de datos SQLite              | Principiante | Próximamente                                                                                                               |
 
 ## Más
 
