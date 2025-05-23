@@ -33,12 +33,12 @@ LabEx - это интерактивная практическая обучаю�
 
 |   Индекс | Название                                                 | Сложность   | Практика                                                                                                                  |
 |----------|----------------------------------------------------------|-------------|---------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Управление ограничениями SQLite (SQLite Constraint... | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/sqlite-sqlite-constraint-management-552545'>Начать Лабораторию</a> |
-|       02 | 📖 Оптимизация индексов SQLite                           | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/sqlite-sqlite-index-optimization-552552'>Начать Лабораторию</a>    |
+|       01 | 📖 Управление ограничениями SQLite (SQLite Constraint... | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/sqlite-sqlite-constraint-management-552545'>Начать Лабораторию</a> |
+|       02 | 📖 Оптимизация индексов SQLite                           | Начинающий  | <a target='_blank' href='https://labex.io/ru/tutorials/sqlite-sqlite-index-optimization-552552'>Начать Лабораторию</a>    |
 
 ## Больше
 
-- 🔗 [SQLite Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [SQLite Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [SQLite Free Tutorials](https://github.com/labex-labs/sqlite-free-tutorials)
+- 🔗 [SQLite Курсы программирования](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [SQLite Проекты программирования](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [SQLite Бесплатные туториалы](https://github.com/labex-labs/sqlite-free-tutorials)
 
