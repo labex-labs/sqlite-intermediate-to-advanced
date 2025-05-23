@@ -33,12 +33,12 @@ Aprende más sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machi
 
 |   Índice | Nombre                                | Dificultad   | Práctica                                                                                                                   |
 |----------|---------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Gestión de Restricciones en SQLite | ★☆☆          | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-sqlite-constraint-management-552545'>Iniciar Laboratorio</a> |
-|       02 | 📖 Optimización de Índices en SQLite  | ★☆☆          | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-sqlite-index-optimization-552552'>Iniciar Laboratorio</a>    |
+|       01 | 📖 Gestión de Restricciones en SQLite | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-sqlite-constraint-management-552545'>Iniciar Laboratorio</a> |
+|       02 | 📖 Optimización de Índices en SQLite  | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-sqlite-index-optimization-552552'>Iniciar Laboratorio</a>    |
 
 ## Más
 
-- 🔗 [SQLite Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [SQLite Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [SQLite Free Tutorials](https://github.com/labex-labs/sqlite-free-tutorials)
+- 🔗 [SQLite Cursos de Programación](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [SQLite Proyectos de Programación](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [SQLite Tutoriales Gratuitos](https://github.com/labex-labs/sqlite-free-tutorials)
 
