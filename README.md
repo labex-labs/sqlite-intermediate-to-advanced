@@ -35,6 +35,21 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |---------|---------------------------------|--------------|---------------------------------------------------------------------------------------------------------------|
 |      01 | 📖 SQLite Constraint Management | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-sqlite-constraint-management-552545'>Start Lab</a> |
 |      02 | 📖 SQLite Index Optimization    | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-sqlite-index-optimization-552552'>Start Lab</a>    |
+|      03 | 📖 SQLite Table Joining         | Beginner     | Coming Soon                                                                                                   |
+|      04 | 📖 SQLite Data Grouping         | Beginner     | Coming Soon                                                                                                   |
+|      05 | 📖 SQLite Subquery Techniques   | Beginner     | Coming Soon                                                                                                   |
+|      06 | 📖 SQLite Transaction Handling  | Beginner     | Coming Soon                                                                                                   |
+|      07 | 📖 SQLite Trigger Automation    | Beginner     | Coming Soon                                                                                                   |
+|      08 | 📖 SQLite View Creation         | Beginner     | Coming Soon                                                                                                   |
+|      09 | 📖 SQLite Full-Text Indexing    | Beginner     | Coming Soon                                                                                                   |
+|      10 | 📖 SQLite JSON Processing       | Beginner     | Coming Soon                                                                                                   |
+|      11 | 📖 SQLite Database Backup       | Beginner     | Coming Soon                                                                                                   |
+|      12 | 📖 SQLite PRAGMA Tuning         | Beginner     | Coming Soon                                                                                                   |
+|      13 | 📖 SQLite Temporary Storage     | Beginner     | Coming Soon                                                                                                   |
+|      14 | 📖 SQLite CTE Queries           | Beginner     | Coming Soon                                                                                                   |
+|      15 | 📖 SQLite Window Analytics      | Beginner     | Coming Soon                                                                                                   |
+|      16 | 📖 SQLite Error Handling        | Beginner     | Coming Soon                                                                                                   |
+|      17 | 📖 SQLite Database Maintenance  | Beginner     | Coming Soon                                                                                                   |
 
 ## More
 
