@@ -15,6 +15,28 @@
 ![SQL](https://img.shields.io/badge/SQL-whitesmoke?style=for-the-badge&logo=sql)
 
 
+## 演習
+
+|   インデックス | 名前                                                  | 難易度   | 練習                                                                                                              |
+|----------------|-------------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------|
+|             01 | 📖 🟢 SQLite 制約管理 (SQLite Constraint Management)  | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/sqlite-sqlite-constraint-management-552545'>ラボを開始</a> |
+|             02 | 📖 🟢 SQLite インデックス最適化                       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/sqlite-sqlite-index-optimization-552552'>ラボを開始</a>    |
+|             03 | 📖 🟢 SQLite テーブル結合                             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/sqlite-sqlite-table-joining-552556'>ラボを開始</a>         |
+|             04 | 📖 🟢 SQLite データグループ化                         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/sqlite-sqlite-data-grouping-552547'>ラボを開始</a>         |
+|             05 | 📖 🟢 SQLite サブクエリのテクニック                   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/sqlite-sqlite-subquery-techniques-552555'>ラボを開始</a>   |
+|             06 | 📖 🟢 SQLite トランザクション処理                     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/sqlite-sqlite-transaction-handling-552558'>ラボを開始</a>  |
+|             07 | 📖 🟢 SQLite トリガーの自動化                         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/sqlite-sqlite-trigger-automation-552559'>ラボを開始</a>    |
+|             08 | 📖 🟢 SQLite ビューの作成 (SQLite View Creation)      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/sqlite-sqlite-view-creation-552560'>ラボを開始</a>         |
+|             09 | 📖 🟢 SQLite 全文インデックス                         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/sqlite-sqlite-full-text-indexing-552551'>ラボを開始</a>    |
+|             10 | 📖 🟢 SQLite JSON 処理                                | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/sqlite-sqlite-json-processing-552553'>ラボを開始</a>       |
+|             11 | 📖 🟢 SQLite データベースのバックアップ               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/sqlite-sqlite-database-backup-552548'>ラボを開始</a>       |
+|             12 | 📖 🟢 SQLite PRAGMA チューニング                      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/sqlite-sqlite-pragma-tuning-552554'>ラボを開始</a>         |
+|             13 | 📖 🟢 SQLite の一時ストレージ                         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/sqlite-sqlite-temporary-storage-552557'>ラボを開始</a>     |
+|             14 | 📖 🟢 SQLite CTE クエリ                               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/sqlite-sqlite-cte-queries-552546'>ラボを開始</a>           |
+|             15 | 📖 🟢 SQLite ウィンドウ分析 (SQLite Window Analytics) | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/sqlite-sqlite-window-analytics-552561'>ラボを開始</a>      |
+|             16 | 📖 🟢 SQLite のエラー処理                             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/sqlite-sqlite-error-handling-552550'>ラボを開始</a>        |
+|             17 | 📖 🟢 SQLite データベースのメンテナンス               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/sqlite-sqlite-database-maintenance-552549'>ラボを開始</a>  |
+
 ## 環境
 
 LabEx は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。
@@ -25,31 +47,9 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 - ブラウザ内のインタラクティブなオンライン環境で、自動化されたステップバイステップのチェック機能。
 - スキルツリーベースのシステムによる構造化されたコンテンツ組織。
 - 30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソース。
-- ChatGPT を基盤とした AI 学習アシスタント Labby による対話型学習体験。
+- 最新の AI モデルを基盤とした学習アシスタント Labby による対話型学習体験。
 
 詳細について [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## 演習
-
-|   インデックス | 名前                                               | 難易度   | 練習                                                                                                              |
-|----------------|----------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------|
-|             01 | 📖 SQLite 制約管理 (SQLite Constraint Management)  | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/sqlite-sqlite-constraint-management-552545'>ラボを開始</a> |
-|             02 | 📖 SQLite インデックス最適化                       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/sqlite-sqlite-index-optimization-552552'>ラボを開始</a>    |
-|             03 | 📖 SQLite テーブル結合                             | 初級     | 近日公開                                                                                                          |
-|             04 | 📖 SQLite データグループ化                         | 初級     | 近日公開                                                                                                          |
-|             05 | 📖 SQLite サブクエリのテクニック                   | 初級     | 近日公開                                                                                                          |
-|             06 | 📖 SQLite トランザクション処理                     | 初級     | 近日公開                                                                                                          |
-|             07 | 📖 SQLite トリガーの自動化                         | 初級     | 近日公開                                                                                                          |
-|             08 | 📖 SQLite ビューの作成 (SQLite View Creation)      | 初級     | 近日公開                                                                                                          |
-|             09 | 📖 SQLite 全文インデックス                         | 初級     | 近日公開                                                                                                          |
-|             10 | 📖 SQLite JSON 処理                                | 初級     | 近日公開                                                                                                          |
-|             11 | 📖 SQLite データベースのバックアップ               | 初級     | 近日公開                                                                                                          |
-|             12 | 📖 SQLite PRAGMA チューニング                      | 初級     | 近日公開                                                                                                          |
-|             13 | 📖 SQLite の一時ストレージ                         | 初級     | 近日公開                                                                                                          |
-|             14 | 📖 SQLite CTE クエリ                               | 初級     | 近日公開                                                                                                          |
-|             15 | 📖 SQLite ウィンドウ分析 (SQLite Window Analytics) | 初級     | 近日公開                                                                                                          |
-|             16 | 📖 SQLite のエラー処理                             | 初級     | 近日公開                                                                                                          |
-|             17 | 📖 SQLite データベースのメンテナンス               | 初級     | 近日公開                                                                                                          |
 
 ## その他
 
