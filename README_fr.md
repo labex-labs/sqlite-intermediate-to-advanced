@@ -15,6 +15,28 @@ Dans ce cours, plongez dans les techniques SQLite avancées. Maîtrisez les cont
 ![SQL](https://img.shields.io/badge/SQL-whitesmoke?style=for-the-badge&logo=sql)
 
 
+## Exercices
+
+|   Index | Nom                                                         | Difficulté   | Pratique                                                                                                                |
+|---------|-------------------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 🟢 Gestion des contraintes SQLite                        | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/sqlite-sqlite-constraint-management-552545'>Commencer le Lab</a> |
+|      02 | 📖 🟢 Optimisation des index SQLite                         | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/sqlite-sqlite-index-optimization-552552'>Commencer le Lab</a>    |
+|      03 | 📖 🟢 Jointure de Tables SQLite                             | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/sqlite-sqlite-table-joining-552556'>Commencer le Lab</a>         |
+|      04 | 📖 🟢 Regroupement de données SQLite                        | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/sqlite-sqlite-data-grouping-552547'>Commencer le Lab</a>         |
+|      05 | 📖 🟢 Techniques de sous-requêtes SQLite                    | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/sqlite-sqlite-subquery-techniques-552555'>Commencer le Lab</a>   |
+|      06 | 📖 🟢 Gestion des transactions SQLite                       | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/sqlite-sqlite-transaction-handling-552558'>Commencer le Lab</a>  |
+|      07 | 📖 🟢 Automatisation des Déclencheurs SQLite                | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/sqlite-sqlite-trigger-automation-552559'>Commencer le Lab</a>    |
+|      08 | 📖 🟢 Création de vues SQLite                               | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/sqlite-sqlite-view-creation-552560'>Commencer le Lab</a>         |
+|      09 | 📖 🟢 Indexation de texte intégral SQLite                   | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/sqlite-sqlite-full-text-indexing-552551'>Commencer le Lab</a>    |
+|      10 | 📖 🟢 Traitement de JSON avec SQLite                        | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/sqlite-sqlite-json-processing-552553'>Commencer le Lab</a>       |
+|      11 | 📖 🟢 Sauvegarde de base de données SQLite                  | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/sqlite-sqlite-database-backup-552548'>Commencer le Lab</a>       |
+|      12 | 📖 🟢 Optimisation des PRAGMA SQLite                        | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/sqlite-sqlite-pragma-tuning-552554'>Commencer le Lab</a>         |
+|      13 | 📖 🟢 Stockage Temporaire SQLite                            | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/sqlite-sqlite-temporary-storage-552557'>Commencer le Lab</a>     |
+|      14 | 📖 🟢 Requêtes CTE SQLite                                   | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/sqlite-sqlite-cte-queries-552546'>Commencer le Lab</a>           |
+|      15 | 📖 🟢 Analyse de données avec les fonctions de fenêtre S... | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/sqlite-sqlite-window-analytics-552561'>Commencer le Lab</a>      |
+|      16 | 📖 🟢 Gestion des erreurs SQLite                            | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/sqlite-sqlite-error-handling-552550'>Commencer le Lab</a>        |
+|      17 | 📖 🟢 Maintenance de la base de données SQLite              | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/sqlite-sqlite-database-maintenance-552549'>Commencer le Lab</a>  |
+
 ## Environnement
 
 LabEx est une plateforme d'apprentissage interactive et pratique dédiée au codage et à la technologie. Elle combine des laboratoires, une assistance IA et des machines virtuelles pour offrir une expérience d'apprentissage pratique sans vidéo.
@@ -25,31 +47,9 @@ LabEx est une plateforme d'apprentissage interactive et pratique dédiée au cod
 - Des environnements en ligne interactifs dans le navigateur, avec des vérifications automatisées étape par étape.
 - Une organisation structurée du contenu avec le système basé sur l'Arbre de Compétences.
 - Une ressource d'apprentissage croissante de 30 Arbres de Compétences et plus de 6 000 Laboratoires.
-- L'assistant d'apprentissage IA Labby, construit sur ChatGPT, offrant une expérience d'apprentissage conversationnelle.
+- L'assistant d'apprentissage Labby, construit sur les derniers modèles d'IA, offrant une expérience d'apprentissage conversationnelle.
 
 En savoir plus sur [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## Exercices
-
-|   Index | Nom                                                      | Difficulté   | Pratique                                                                                                                |
-|---------|----------------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Gestion des contraintes SQLite                        | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/sqlite-sqlite-constraint-management-552545'>Commencer le Lab</a> |
-|      02 | 📖 Optimisation des index SQLite                         | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/sqlite-sqlite-index-optimization-552552'>Commencer le Lab</a>    |
-|      03 | 📖 Jointure de Tables SQLite                             | Débutant     | Bientôt Disponible                                                                                                      |
-|      04 | 📖 Regroupement de données SQLite                        | Débutant     | Bientôt Disponible                                                                                                      |
-|      05 | 📖 Techniques de sous-requêtes SQLite                    | Débutant     | Bientôt Disponible                                                                                                      |
-|      06 | 📖 Gestion des transactions SQLite                       | Débutant     | Bientôt Disponible                                                                                                      |
-|      07 | 📖 Automatisation des Déclencheurs SQLite                | Débutant     | Bientôt Disponible                                                                                                      |
-|      08 | 📖 Création de vues SQLite                               | Débutant     | Bientôt Disponible                                                                                                      |
-|      09 | 📖 Indexation de texte intégral SQLite                   | Débutant     | Bientôt Disponible                                                                                                      |
-|      10 | 📖 Traitement de JSON avec SQLite                        | Débutant     | Bientôt Disponible                                                                                                      |
-|      11 | 📖 Sauvegarde de base de données SQLite                  | Débutant     | Bientôt Disponible                                                                                                      |
-|      12 | 📖 Optimisation des PRAGMA SQLite                        | Débutant     | Bientôt Disponible                                                                                                      |
-|      13 | 📖 Stockage Temporaire SQLite                            | Débutant     | Bientôt Disponible                                                                                                      |
-|      14 | 📖 Requêtes CTE SQLite                                   | Débutant     | Bientôt Disponible                                                                                                      |
-|      15 | 📖 Analyse de données avec les fonctions de fenêtre S... | Débutant     | Bientôt Disponible                                                                                                      |
-|      16 | 📖 Gestion des erreurs SQLite                            | Débutant     | Bientôt Disponible                                                                                                      |
-|      17 | 📖 Maintenance de la base de données SQLite              | Débutant     | Bientôt Disponible                                                                                                      |
 
 ## Plus
 
