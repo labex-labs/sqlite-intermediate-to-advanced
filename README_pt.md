@@ -15,6 +15,28 @@ Neste curso, aprofunde-se em técnicas avançadas de SQLite. Domine constraints,
 ![SQL](https://img.shields.io/badge/SQL-whitesmoke?style=for-the-badge&logo=sql)
 
 
+## Exercícios
+
+|   Índice | Nome                                        | Dificuldade   | Prática                                                                                                            |
+|----------|---------------------------------------------|---------------|--------------------------------------------------------------------------------------------------------------------|
+|       01 | 📖 🟢 Gerenciamento de Restrições no SQLite | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/sqlite-sqlite-constraint-management-552545'>Iniciar Lab</a> |
+|       02 | 📖 🟢 Otimização de Índices SQLite          | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/sqlite-sqlite-index-optimization-552552'>Iniciar Lab</a>    |
+|       03 | 📖 🟢 Junção de Tabelas SQLite              | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/sqlite-sqlite-table-joining-552556'>Iniciar Lab</a>         |
+|       04 | 📖 🟢 Agrupamento de Dados SQLite           | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/sqlite-sqlite-data-grouping-552547'>Iniciar Lab</a>         |
+|       05 | 📖 🟢 Técnicas de Subconsulta SQLite        | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/sqlite-sqlite-subquery-techniques-552555'>Iniciar Lab</a>   |
+|       06 | 📖 🟢 Manipulação de Transações SQLite      | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/sqlite-sqlite-transaction-handling-552558'>Iniciar Lab</a>  |
+|       07 | 📖 🟢 Automação de Gatilhos SQLite          | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/sqlite-sqlite-trigger-automation-552559'>Iniciar Lab</a>    |
+|       08 | 📖 🟢 Criação de Views no SQLite            | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/sqlite-sqlite-view-creation-552560'>Iniciar Lab</a>         |
+|       09 | 📖 🟢 Indexação de Texto Completo no SQLite | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/sqlite-sqlite-full-text-indexing-552551'>Iniciar Lab</a>    |
+|       10 | 📖 🟢 Processamento de JSON no SQLite       | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/sqlite-sqlite-json-processing-552553'>Iniciar Lab</a>       |
+|       11 | 📖 🟢 Backup de Banco de Dados SQLite       | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/sqlite-sqlite-database-backup-552548'>Iniciar Lab</a>       |
+|       12 | 📖 🟢 Ajuste de PRAGMA do SQLite            | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/sqlite-sqlite-pragma-tuning-552554'>Iniciar Lab</a>         |
+|       13 | 📖 🟢 Armazenamento Temporário SQLite       | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/sqlite-sqlite-temporary-storage-552557'>Iniciar Lab</a>     |
+|       14 | 📖 🟢 Consultas CTE em SQLite               | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/sqlite-sqlite-cte-queries-552546'>Iniciar Lab</a>           |
+|       15 | 📖 🟢 Análise de Janela no SQLite           | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/sqlite-sqlite-window-analytics-552561'>Iniciar Lab</a>      |
+|       16 | 📖 🟢 Tratamento de Erros SQLite            | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/sqlite-sqlite-error-handling-552550'>Iniciar Lab</a>        |
+|       17 | 📖 🟢 Manutenção de Banco de Dados SQLite   | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/sqlite-sqlite-database-maintenance-552549'>Iniciar Lab</a>  |
+
 ## Ambiente
 
 LabEx é uma plataforma de aprendizagem interativa e prática dedicada à programação e tecnologia. Combina laboratórios, assistência de IA e máquinas virtuais para fornecer uma experiência de aprendizagem prática sem vídeos.
@@ -25,31 +47,9 @@ LabEx é uma plataforma de aprendizagem interativa e prática dedicada à progra
 - Ambientes online interativos no navegador, com verificações automatizadas passo a passo.
 - Uma organização de conteúdo estruturada com o sistema baseado em Árvore de Habilidades.
 - Um recurso de aprendizagem crescente de 30 Árvores de Habilidades e mais de 6.000 Laboratórios.
-- O assistente de aprendizagem de IA Labby, construído sobre ChatGPT, fornecendo uma experiência de aprendizagem conversacional.
+- O assistente de aprendizagem Labby, construído sobre os últimos modelos de IA, fornecendo uma experiência de aprendizagem conversacional.
 
 Saiba mais sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## Exercícios
-
-|   Índice | Nome                                     | Dificuldade   | Prática                                                                                                            |
-|----------|------------------------------------------|---------------|--------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Gerenciamento de Restrições no SQLite | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/sqlite-sqlite-constraint-management-552545'>Iniciar Lab</a> |
-|       02 | 📖 Otimização de Índices SQLite          | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/sqlite-sqlite-index-optimization-552552'>Iniciar Lab</a>    |
-|       03 | 📖 SQLite Table Joining                  | Iniciante     | Em Breve                                                                                                           |
-|       04 | 📖 SQLite Data Grouping                  | Iniciante     | Em Breve                                                                                                           |
-|       05 | 📖 SQLite Subquery Techniques            | Iniciante     | Em Breve                                                                                                           |
-|       06 | 📖 SQLite Transaction Handling           | Iniciante     | Em Breve                                                                                                           |
-|       07 | 📖 SQLite Trigger Automation             | Iniciante     | Em Breve                                                                                                           |
-|       08 | 📖 SQLite View Creation                  | Iniciante     | Em Breve                                                                                                           |
-|       09 | 📖 SQLite Full-Text Indexing             | Iniciante     | Em Breve                                                                                                           |
-|       10 | 📖 SQLite JSON Processing                | Iniciante     | Em Breve                                                                                                           |
-|       11 | 📖 SQLite Database Backup                | Iniciante     | Em Breve                                                                                                           |
-|       12 | 📖 SQLite PRAGMA Tuning                  | Iniciante     | Em Breve                                                                                                           |
-|       13 | 📖 SQLite Temporary Storage              | Iniciante     | Em Breve                                                                                                           |
-|       14 | 📖 SQLite CTE Queries                    | Iniciante     | Em Breve                                                                                                           |
-|       15 | 📖 SQLite Window Analytics               | Iniciante     | Em Breve                                                                                                           |
-|       16 | 📖 SQLite Error Handling                 | Iniciante     | Em Breve                                                                                                           |
-|       17 | 📖 SQLite Database Maintenance           | Iniciante     | Em Breve                                                                                                           |
 
 ## Mais
 
