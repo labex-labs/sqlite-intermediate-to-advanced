@@ -19,23 +19,23 @@ En este curso, profundiza en técnicas avanzadas de SQLite. Domina restricciones
 
 |   Índice | Nombre                                                      | Dificultad   | Práctica                                                                                                                   |
 |----------|-------------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 🟢 Gestión de Restricciones en SQLite                    | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-sqlite-constraint-management-552545'>Iniciar Laboratorio</a> |
-|       02 | 📖 🟢 Optimización de Índices en SQLite                     | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-sqlite-index-optimization-552552'>Iniciar Laboratorio</a>    |
-|       03 | 📖 🟢 Unión de Tablas en SQLite                             | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-sqlite-table-joining-552556'>Iniciar Laboratorio</a>         |
-|       04 | 📖 🟢 Agrupación de Datos en SQLite                         | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-sqlite-data-grouping-552547'>Iniciar Laboratorio</a>         |
-|       05 | 📖 🟢 Técnicas de Subconsultas en SQLite                    | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-sqlite-subquery-techniques-552555'>Iniciar Laboratorio</a>   |
-|       06 | 📖 🟢 Manejo de Transacciones en SQLite                     | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-sqlite-transaction-handling-552558'>Iniciar Laboratorio</a>  |
-|       07 | 📖 🟢 Automatización de Triggers (Disparadores) en SQLit... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-sqlite-trigger-automation-552559'>Iniciar Laboratorio</a>    |
-|       08 | 📖 🟢 Creación de Vistas en SQLite                          | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-sqlite-view-creation-552560'>Iniciar Laboratorio</a>         |
-|       09 | 📖 🟢 Indexación de Texto Completo en SQLite                | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-sqlite-full-text-indexing-552551'>Iniciar Laboratorio</a>    |
-|       10 | 📖 🟢 Procesamiento de JSON en SQLite                       | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-sqlite-json-processing-552553'>Iniciar Laboratorio</a>       |
-|       11 | 📖 🟢 Copia de Seguridad de la Base de Datos SQLite         | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-sqlite-database-backup-552548'>Iniciar Laboratorio</a>       |
-|       12 | 📖 🟢 Optimización de PRAGMA en SQLite                      | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-sqlite-pragma-tuning-552554'>Iniciar Laboratorio</a>         |
-|       13 | 📖 🟢 Almacenamiento Temporal en SQLite                     | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-sqlite-temporary-storage-552557'>Iniciar Laboratorio</a>     |
-|       14 | 📖 🟢 Consultas CTE en SQLite                               | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-sqlite-cte-queries-552546'>Iniciar Laboratorio</a>           |
-|       15 | 📖 🟢 Análisis de Ventanas en SQLite                        | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-sqlite-window-analytics-552561'>Iniciar Laboratorio</a>      |
-|       16 | 📖 🟢 Manejo de Errores en SQLite                           | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-sqlite-error-handling-552550'>Iniciar Laboratorio</a>        |
-|       17 | 📖 🟢 Mantenimiento de la base de datos SQLite              | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-sqlite-database-maintenance-552549'>Iniciar Laboratorio</a>  |
+|       01 | 📖 🆓 Gestión de Restricciones en SQLite                    | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-sqlite-constraint-management-552545'>Iniciar Laboratorio</a> |
+|       02 | 📖 🆓 Optimización de Índices en SQLite                     | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-sqlite-index-optimization-552552'>Iniciar Laboratorio</a>    |
+|       03 | 📖 🆓 Unión de Tablas en SQLite                             | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-sqlite-table-joining-552556'>Iniciar Laboratorio</a>         |
+|       04 | 📖 🆓 Agrupación de Datos en SQLite                         | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-sqlite-data-grouping-552547'>Iniciar Laboratorio</a>         |
+|       05 | 📖 🆓 Técnicas de Subconsultas en SQLite                    | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-sqlite-subquery-techniques-552555'>Iniciar Laboratorio</a>   |
+|       06 | 📖 🆓 Manejo de Transacciones en SQLite                     | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-sqlite-transaction-handling-552558'>Iniciar Laboratorio</a>  |
+|       07 | 📖 🆓 Automatización de Triggers (Disparadores) en SQLit... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-sqlite-trigger-automation-552559'>Iniciar Laboratorio</a>    |
+|       08 | 📖  Creación de Vistas en SQLite                            | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-sqlite-view-creation-552560'>Iniciar Laboratorio</a>         |
+|       09 | 📖  Indexación de Texto Completo en SQLite                  | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-sqlite-full-text-indexing-552551'>Iniciar Laboratorio</a>    |
+|       10 | 📖  Procesamiento de JSON en SQLite                         | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-sqlite-json-processing-552553'>Iniciar Laboratorio</a>       |
+|       11 | 📖  Copia de Seguridad de la Base de Datos SQLite           | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-sqlite-database-backup-552548'>Iniciar Laboratorio</a>       |
+|       12 | 📖  Optimización de PRAGMA en SQLite                        | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-sqlite-pragma-tuning-552554'>Iniciar Laboratorio</a>         |
+|       13 | 📖  Almacenamiento Temporal en SQLite                       | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-sqlite-temporary-storage-552557'>Iniciar Laboratorio</a>     |
+|       14 | 📖  Consultas CTE en SQLite                                 | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-sqlite-cte-queries-552546'>Iniciar Laboratorio</a>           |
+|       15 | 📖  Análisis de Ventanas en SQLite                          | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-sqlite-window-analytics-552561'>Iniciar Laboratorio</a>      |
+|       16 | 📖  Manejo de Errores en SQLite                             | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-sqlite-error-handling-552550'>Iniciar Laboratorio</a>        |
+|       17 | 📖  Mantenimiento de la base de datos SQLite                | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/sqlite-sqlite-database-maintenance-552549'>Iniciar Laboratorio</a>  |
 
 ## Entorno
 
