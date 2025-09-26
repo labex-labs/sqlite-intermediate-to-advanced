@@ -19,23 +19,23 @@ In diesem Kurs vertiefen Sie Ihre Kenntnisse in fortgeschrittenen SQLite-Technik
 
 |   Index | Name                                                        | Schwierigkeit   | Übung                                                                                                                |
 |---------|-------------------------------------------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 🟢 SQLite Constraint Management (Constraint-Verwaltun... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sqlite-sqlite-constraint-management-552545'>Labor Starten</a> |
-|      02 | 📖 🟢 SQLite Indexoptimierung                               | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sqlite-sqlite-index-optimization-552552'>Labor Starten</a>    |
-|      03 | 📖 🟢 SQLite Tabellenverknüpfung (Table Joining)            | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sqlite-sqlite-table-joining-552556'>Labor Starten</a>         |
-|      04 | 📖 🟢 SQLite Datengruppierung                               | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sqlite-sqlite-data-grouping-552547'>Labor Starten</a>         |
-|      05 | 📖 🟢 SQLite Subquery-Techniken (Unterabfragen)             | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sqlite-sqlite-subquery-techniques-552555'>Labor Starten</a>   |
-|      06 | 📖 🟢 SQLite Transaktionsverarbeitung                       | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sqlite-sqlite-transaction-handling-552558'>Labor Starten</a>  |
-|      07 | 📖 🟢 SQLite Trigger Automatisierung                        | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sqlite-sqlite-trigger-automation-552559'>Labor Starten</a>    |
-|      08 | 📖 🟢 SQLite View Erstellung                                | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sqlite-sqlite-view-creation-552560'>Labor Starten</a>         |
-|      09 | 📖 🟢 SQLite Volltextindizierung                            | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sqlite-sqlite-full-text-indexing-552551'>Labor Starten</a>    |
-|      10 | 📖 🟢 SQLite JSON Verarbeitung                              | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sqlite-sqlite-json-processing-552553'>Labor Starten</a>       |
-|      11 | 📖 🟢 SQLite Datenbank Backup                               | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sqlite-sqlite-database-backup-552548'>Labor Starten</a>       |
-|      12 | 📖 🟢 SQLite PRAGMA Optimierung                             | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sqlite-sqlite-pragma-tuning-552554'>Labor Starten</a>         |
-|      13 | 📖 🟢 SQLite Temporärer Speicher                            | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sqlite-sqlite-temporary-storage-552557'>Labor Starten</a>     |
-|      14 | 📖 🟢 SQLite CTE Abfragen                                   | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sqlite-sqlite-cte-queries-552546'>Labor Starten</a>           |
-|      15 | 📖 🟢 SQLite Fensterfunktionen-Analysen (Window Analytic... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sqlite-sqlite-window-analytics-552561'>Labor Starten</a>      |
-|      16 | 📖 🟢 SQLite Fehlerbehandlung                               | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sqlite-sqlite-error-handling-552550'>Labor Starten</a>        |
-|      17 | 📖 🟢 SQLite Datenbankwartung                               | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sqlite-sqlite-database-maintenance-552549'>Labor Starten</a>  |
+|      01 | 📖 🆓 SQLite Constraint Management (Constraint-Verwaltun... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sqlite-sqlite-constraint-management-552545'>Labor Starten</a> |
+|      02 | 📖 🆓 SQLite Indexoptimierung                               | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sqlite-sqlite-index-optimization-552552'>Labor Starten</a>    |
+|      03 | 📖 🆓 SQLite Tabellenverknüpfung (Table Joining)            | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sqlite-sqlite-table-joining-552556'>Labor Starten</a>         |
+|      04 | 📖 🆓 SQLite Datengruppierung                               | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sqlite-sqlite-data-grouping-552547'>Labor Starten</a>         |
+|      05 | 📖 🆓 SQLite Subquery-Techniken (Unterabfragen)             | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sqlite-sqlite-subquery-techniques-552555'>Labor Starten</a>   |
+|      06 | 📖 🆓 SQLite Transaktionsverarbeitung                       | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sqlite-sqlite-transaction-handling-552558'>Labor Starten</a>  |
+|      07 | 📖 🆓 SQLite Trigger Automatisierung                        | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sqlite-sqlite-trigger-automation-552559'>Labor Starten</a>    |
+|      08 | 📖  SQLite View Erstellung                                  | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sqlite-sqlite-view-creation-552560'>Labor Starten</a>         |
+|      09 | 📖  SQLite Volltextindizierung                              | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sqlite-sqlite-full-text-indexing-552551'>Labor Starten</a>    |
+|      10 | 📖  SQLite JSON Verarbeitung                                | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sqlite-sqlite-json-processing-552553'>Labor Starten</a>       |
+|      11 | 📖  SQLite Datenbank Backup                                 | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sqlite-sqlite-database-backup-552548'>Labor Starten</a>       |
+|      12 | 📖  SQLite PRAGMA Optimierung                               | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sqlite-sqlite-pragma-tuning-552554'>Labor Starten</a>         |
+|      13 | 📖  SQLite Temporärer Speicher                              | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sqlite-sqlite-temporary-storage-552557'>Labor Starten</a>     |
+|      14 | 📖  SQLite CTE Abfragen                                     | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sqlite-sqlite-cte-queries-552546'>Labor Starten</a>           |
+|      15 | 📖  SQLite Fensterfunktionen-Analysen (Window Analytic...   | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sqlite-sqlite-window-analytics-552561'>Labor Starten</a>      |
+|      16 | 📖  SQLite Fehlerbehandlung                                 | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sqlite-sqlite-error-handling-552550'>Labor Starten</a>        |
+|      17 | 📖  SQLite Datenbankwartung                                 | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sqlite-sqlite-database-maintenance-552549'>Labor Starten</a>  |
 
 ## Umgebung
 
