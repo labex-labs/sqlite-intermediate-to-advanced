@@ -19,23 +19,23 @@
 
 |   序号 | 名称                      | 难度   | 练习                                                                                                            |
 |--------|---------------------------|--------|-----------------------------------------------------------------------------------------------------------------|
-|     01 | 📖 🟢 SQLite 约束管理     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-sqlite-constraint-management-552545'>开始实验</a> |
-|     02 | 📖 🟢 SQLite 索引优化     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-sqlite-index-optimization-552552'>开始实验</a>    |
-|     03 | 📖 🟢 SQLite 表连接       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-sqlite-table-joining-552556'>开始实验</a>         |
-|     04 | 📖 🟢 SQLite 数据分组     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-sqlite-data-grouping-552547'>开始实验</a>         |
-|     05 | 📖 🟢 SQLite 子查询技术   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-sqlite-subquery-techniques-552555'>开始实验</a>   |
-|     06 | 📖 🟢 SQLite 事务处理     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-sqlite-transaction-handling-552558'>开始实验</a>  |
-|     07 | 📖 🟢 SQLite 触发器自动化 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-sqlite-trigger-automation-552559'>开始实验</a>    |
-|     08 | 📖 🟢 SQLite 视图创建     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-sqlite-view-creation-552560'>开始实验</a>         |
-|     09 | 📖 🟢 SQLite 全文索引     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-sqlite-full-text-indexing-552551'>开始实验</a>    |
-|     10 | 📖 🟢 SQLite JSON 处理    | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-sqlite-json-processing-552553'>开始实验</a>       |
-|     11 | 📖 🟢 SQLite 数据库备份   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-sqlite-database-backup-552548'>开始实验</a>       |
-|     12 | 📖 🟢 SQLite PRAGMA 调优  | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-sqlite-pragma-tuning-552554'>开始实验</a>         |
-|     13 | 📖 🟢 SQLite 临时存储     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-sqlite-temporary-storage-552557'>开始实验</a>     |
-|     14 | 📖 🟢 SQLite CTE 查询     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-sqlite-cte-queries-552546'>开始实验</a>           |
-|     15 | 📖 🟢 SQLite 窗口分析     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-sqlite-window-analytics-552561'>开始实验</a>      |
-|     16 | 📖 🟢 SQLite 错误处理     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-sqlite-error-handling-552550'>开始实验</a>        |
-|     17 | 📖 🟢 SQLite 数据库维护   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-sqlite-database-maintenance-552549'>开始实验</a>  |
+|     01 | 📖 🆓 SQLite 约束管理     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-sqlite-constraint-management-552545'>开始实验</a> |
+|     02 | 📖 🆓 SQLite 索引优化     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-sqlite-index-optimization-552552'>开始实验</a>    |
+|     03 | 📖 🆓 SQLite 表连接       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-sqlite-table-joining-552556'>开始实验</a>         |
+|     04 | 📖 🆓 SQLite 数据分组     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-sqlite-data-grouping-552547'>开始实验</a>         |
+|     05 | 📖 🆓 SQLite 子查询技术   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-sqlite-subquery-techniques-552555'>开始实验</a>   |
+|     06 | 📖 🆓 SQLite 事务处理     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-sqlite-transaction-handling-552558'>开始实验</a>  |
+|     07 | 📖 🆓 SQLite 触发器自动化 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-sqlite-trigger-automation-552559'>开始实验</a>    |
+|     08 | 📖  SQLite 视图创建       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-sqlite-view-creation-552560'>开始实验</a>         |
+|     09 | 📖  SQLite 全文索引       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-sqlite-full-text-indexing-552551'>开始实验</a>    |
+|     10 | 📖  SQLite JSON 处理      | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-sqlite-json-processing-552553'>开始实验</a>       |
+|     11 | 📖  SQLite 数据库备份     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-sqlite-database-backup-552548'>开始实验</a>       |
+|     12 | 📖  SQLite PRAGMA 调优    | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-sqlite-pragma-tuning-552554'>开始实验</a>         |
+|     13 | 📖  SQLite 临时存储       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-sqlite-temporary-storage-552557'>开始实验</a>     |
+|     14 | 📖  SQLite CTE 查询       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-sqlite-cte-queries-552546'>开始实验</a>           |
+|     15 | 📖  SQLite 窗口分析       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-sqlite-window-analytics-552561'>开始实验</a>      |
+|     16 | 📖  SQLite 错误处理       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-sqlite-error-handling-552550'>开始实验</a>        |
+|     17 | 📖  SQLite 数据库维护     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/sqlite-sqlite-database-maintenance-552549'>开始实验</a>  |
 
 ## 学习环境
 
