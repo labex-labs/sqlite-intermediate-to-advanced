@@ -19,23 +19,23 @@ In this course, delve into advanced SQLite techniques. Master constraints, index
 
 |   Index | Name                               | Difficulty   | Practice                                                                                                      |
 |---------|------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 🟢 SQLite Constraint Management | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-sqlite-constraint-management-552545'>Start Lab</a> |
-|      02 | 📖 🟢 SQLite Index Optimization    | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-sqlite-index-optimization-552552'>Start Lab</a>    |
-|      03 | 📖 🟢 SQLite Table Joining         | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-sqlite-table-joining-552556'>Start Lab</a>         |
-|      04 | 📖 🟢 SQLite Data Grouping         | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-sqlite-data-grouping-552547'>Start Lab</a>         |
-|      05 | 📖 🟢 SQLite Subquery Techniques   | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-sqlite-subquery-techniques-552555'>Start Lab</a>   |
-|      06 | 📖 🟢 SQLite Transaction Handling  | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-sqlite-transaction-handling-552558'>Start Lab</a>  |
-|      07 | 📖 🟢 SQLite Trigger Automation    | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-sqlite-trigger-automation-552559'>Start Lab</a>    |
-|      08 | 📖 🟢 SQLite View Creation         | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-sqlite-view-creation-552560'>Start Lab</a>         |
-|      09 | 📖 🟢 SQLite Full-Text Indexing    | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-sqlite-full-text-indexing-552551'>Start Lab</a>    |
-|      10 | 📖 🟢 SQLite JSON Processing       | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-sqlite-json-processing-552553'>Start Lab</a>       |
-|      11 | 📖 🟢 SQLite Database Backup       | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-sqlite-database-backup-552548'>Start Lab</a>       |
-|      12 | 📖 🟢 SQLite PRAGMA Tuning         | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-sqlite-pragma-tuning-552554'>Start Lab</a>         |
-|      13 | 📖 🟢 SQLite Temporary Storage     | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-sqlite-temporary-storage-552557'>Start Lab</a>     |
-|      14 | 📖 🟢 SQLite CTE Queries           | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-sqlite-cte-queries-552546'>Start Lab</a>           |
-|      15 | 📖 🟢 SQLite Window Analytics      | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-sqlite-window-analytics-552561'>Start Lab</a>      |
-|      16 | 📖 🟢 SQLite Error Handling        | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-sqlite-error-handling-552550'>Start Lab</a>        |
-|      17 | 📖 🟢 SQLite Database Maintenance  | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-sqlite-database-maintenance-552549'>Start Lab</a>  |
+|      01 | 📖 🆓 SQLite Constraint Management | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-sqlite-constraint-management-552545'>Start Lab</a> |
+|      02 | 📖 🆓 SQLite Index Optimization    | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-sqlite-index-optimization-552552'>Start Lab</a>    |
+|      03 | 📖 🆓 SQLite Table Joining         | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-sqlite-table-joining-552556'>Start Lab</a>         |
+|      04 | 📖 🆓 SQLite Data Grouping         | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-sqlite-data-grouping-552547'>Start Lab</a>         |
+|      05 | 📖 🆓 SQLite Subquery Techniques   | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-sqlite-subquery-techniques-552555'>Start Lab</a>   |
+|      06 | 📖 🆓 SQLite Transaction Handling  | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-sqlite-transaction-handling-552558'>Start Lab</a>  |
+|      07 | 📖 🆓 SQLite Trigger Automation    | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-sqlite-trigger-automation-552559'>Start Lab</a>    |
+|      08 | 📖  SQLite View Creation           | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-sqlite-view-creation-552560'>Start Lab</a>         |
+|      09 | 📖  SQLite Full-Text Indexing      | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-sqlite-full-text-indexing-552551'>Start Lab</a>    |
+|      10 | 📖  SQLite JSON Processing         | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-sqlite-json-processing-552553'>Start Lab</a>       |
+|      11 | 📖  SQLite Database Backup         | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-sqlite-database-backup-552548'>Start Lab</a>       |
+|      12 | 📖  SQLite PRAGMA Tuning           | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-sqlite-pragma-tuning-552554'>Start Lab</a>         |
+|      13 | 📖  SQLite Temporary Storage       | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-sqlite-temporary-storage-552557'>Start Lab</a>     |
+|      14 | 📖  SQLite CTE Queries             | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-sqlite-cte-queries-552546'>Start Lab</a>           |
+|      15 | 📖  SQLite Window Analytics        | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-sqlite-window-analytics-552561'>Start Lab</a>      |
+|      16 | 📖  SQLite Error Handling          | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-sqlite-error-handling-552550'>Start Lab</a>        |
+|      17 | 📖  SQLite Database Maintenance    | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sqlite-sqlite-database-maintenance-552549'>Start Lab</a>  |
 
 ## Environment
 
