@@ -17,29 +17,29 @@
 
 ## 연습
 
-|   인덱스 | 이름                              | 난이도   | 연습                                                                                                             |
-|----------|-----------------------------------|----------|------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 🆓 SQLite 제약 조건 관리       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/sqlite-sqlite-constraint-management-552545'>실습 시작</a> |
-|       02 | 📖 🆓 SQLite 인덱스 최적화        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/sqlite-sqlite-index-optimization-552552'>실습 시작</a>    |
-|       03 | 📖 🆓 SQLite 테이블 조인          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/sqlite-sqlite-table-joining-552556'>실습 시작</a>         |
-|       04 | 📖 🆓 SQLite 데이터 그룹화        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/sqlite-sqlite-data-grouping-552547'>실습 시작</a>         |
-|       05 | 📖 🆓 SQLite 서브쿼리 기법        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/sqlite-sqlite-subquery-techniques-552555'>실습 시작</a>   |
-|       06 | 📖 🆓 SQLite 트랜잭션 처리        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/sqlite-sqlite-transaction-handling-552558'>실습 시작</a>  |
-|       07 | 📖 🆓 SQLite 트리거 자동화        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/sqlite-sqlite-trigger-automation-552559'>실습 시작</a>    |
-|       08 | 📖  SQLite 뷰 생성                | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/sqlite-sqlite-view-creation-552560'>실습 시작</a>         |
-|       09 | 📖  SQLite 전체 텍스트 인덱싱     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/sqlite-sqlite-full-text-indexing-552551'>실습 시작</a>    |
-|       10 | 📖  SQLite JSON 처리              | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/sqlite-sqlite-json-processing-552553'>실습 시작</a>       |
-|       11 | 📖  SQLite 데이터베이스 백업      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/sqlite-sqlite-database-backup-552548'>실습 시작</a>       |
-|       12 | 📖  SQLite PRAGMA 튜닝            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/sqlite-sqlite-pragma-tuning-552554'>실습 시작</a>         |
-|       13 | 📖  SQLite 임시 저장소            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/sqlite-sqlite-temporary-storage-552557'>실습 시작</a>     |
-|       14 | 📖  SQLite CTE 쿼리               | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/sqlite-sqlite-cte-queries-552546'>실습 시작</a>           |
-|       15 | 📖  SQLite 윈도우 분석            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/sqlite-sqlite-window-analytics-552561'>실습 시작</a>      |
-|       16 | 📖  SQLite 오류 처리              | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/sqlite-sqlite-error-handling-552550'>실습 시작</a>        |
-|       17 | 📖  SQLite 데이터베이스 유지 관리 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/sqlite-sqlite-database-maintenance-552549'>실습 시작</a>  |
+|   인덱스 | 이름                              | 난이도   | 연습                                                                                                                                               |
+|----------|-----------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+|       01 | 🧩 🆓 SQLite 제약 조건 관리       | 초급     | <a target='_blank' href='https://labex.io/ko/labs/sqlite-sqlite-constraint-management-552545?course=sqlite-intermediate-to-advanced'>실습 시작</a> |
+|       02 | 🧩 🆓 SQLite 인덱스 최적화        | 초급     | <a target='_blank' href='https://labex.io/ko/labs/sqlite-sqlite-index-optimization-552552?course=sqlite-intermediate-to-advanced'>실습 시작</a>    |
+|       03 | 🧩 🆓 SQLite 테이블 조인          | 초급     | <a target='_blank' href='https://labex.io/ko/labs/sqlite-sqlite-table-joining-552556?course=sqlite-intermediate-to-advanced'>실습 시작</a>         |
+|       04 | 🧩 🆓 SQLite 데이터 그룹화        | 초급     | <a target='_blank' href='https://labex.io/ko/labs/sqlite-sqlite-data-grouping-552547?course=sqlite-intermediate-to-advanced'>실습 시작</a>         |
+|       05 | 🧩 🆓 SQLite 서브쿼리 기법        | 초급     | <a target='_blank' href='https://labex.io/ko/labs/sqlite-sqlite-subquery-techniques-552555?course=sqlite-intermediate-to-advanced'>실습 시작</a>   |
+|       06 | 🧩 🆓 SQLite 트랜잭션 처리        | 초급     | <a target='_blank' href='https://labex.io/ko/labs/sqlite-sqlite-transaction-handling-552558?course=sqlite-intermediate-to-advanced'>실습 시작</a>  |
+|       07 | 🧩 🆓 SQLite 트리거 자동화        | 초급     | <a target='_blank' href='https://labex.io/ko/labs/sqlite-sqlite-trigger-automation-552559?course=sqlite-intermediate-to-advanced'>실습 시작</a>    |
+|       08 | 🧩  SQLite 뷰 생성                | 초급     | <a target='_blank' href='https://labex.io/ko/labs/sqlite-sqlite-view-creation-552560?course=sqlite-intermediate-to-advanced'>실습 시작</a>         |
+|       09 | 🧩  SQLite 전체 텍스트 인덱싱     | 초급     | <a target='_blank' href='https://labex.io/ko/labs/sqlite-sqlite-full-text-indexing-552551?course=sqlite-intermediate-to-advanced'>실습 시작</a>    |
+|       10 | 🧩  SQLite JSON 처리              | 초급     | <a target='_blank' href='https://labex.io/ko/labs/sqlite-sqlite-json-processing-552553?course=sqlite-intermediate-to-advanced'>실습 시작</a>       |
+|       11 | 🧩  SQLite 데이터베이스 백업      | 초급     | <a target='_blank' href='https://labex.io/ko/labs/sqlite-sqlite-database-backup-552548?course=sqlite-intermediate-to-advanced'>실습 시작</a>       |
+|       12 | 🧩  SQLite PRAGMA 튜닝            | 초급     | <a target='_blank' href='https://labex.io/ko/labs/sqlite-sqlite-pragma-tuning-552554?course=sqlite-intermediate-to-advanced'>실습 시작</a>         |
+|       13 | 🧩  SQLite 임시 저장소            | 초급     | <a target='_blank' href='https://labex.io/ko/labs/sqlite-sqlite-temporary-storage-552557?course=sqlite-intermediate-to-advanced'>실습 시작</a>     |
+|       14 | 🧩  SQLite CTE 쿼리               | 초급     | <a target='_blank' href='https://labex.io/ko/labs/sqlite-sqlite-cte-queries-552546?course=sqlite-intermediate-to-advanced'>실습 시작</a>           |
+|       15 | 🧩  SQLite 윈도우 분석            | 초급     | <a target='_blank' href='https://labex.io/ko/labs/sqlite-sqlite-window-analytics-552561?course=sqlite-intermediate-to-advanced'>실습 시작</a>      |
+|       16 | 🧩  SQLite 오류 처리              | 초급     | <a target='_blank' href='https://labex.io/ko/labs/sqlite-sqlite-error-handling-552550?course=sqlite-intermediate-to-advanced'>실습 시작</a>        |
+|       17 | 🧩  SQLite 데이터베이스 유지 관리 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/sqlite-sqlite-database-maintenance-552549?course=sqlite-intermediate-to-advanced'>실습 시작</a>  |
 
 ## LabEx 소개
 
-LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입니다. 실험실, AI 지원 및 가상 머신을 결합하여 비디오 없는 실용적인 학습 경험을 제공합니다. 비디오 없는 독점적인 실습 실험실로 엄격한 '실습을 통한 학습' 접근 방식, 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인, 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성, 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스로, LabEx 는 종합적인 실습 교육을 제공합니다. 플랫폼에는 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 포함되어 대화형 학습 경험을 제공합니다.
+[LabEx](https://labex.io) 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입니다. 실험실, AI 지원 및 가상 머신을 결합하여 비디오 없는 실용적인 학습 경험을 제공합니다. 비디오 없는 독점적인 실습 실험실로 엄격한 '실습을 통한 학습' 접근 방식, 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인, 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성, 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스로, [LabEx](https://labex.io) 는 종합적인 실습 교육을 제공합니다. 플랫폼에는 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 포함되어 대화형 학습 경험을 제공합니다.
 
 ## 더 보기
 
